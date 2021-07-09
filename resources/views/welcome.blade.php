@@ -47,7 +47,7 @@
             <tr>
               <td width="25%" valign="top" class="textt">Nama</td>
                 <td width="2%">:</td>
-                <td style="color: rgb(118, 157, 29); font-weight:bold">Aldi Wahyudi</td>
+                <td style="color: rgb(118, 157, 29); font-weight:bold">Akhmad Samroni</td>
             </tr>
           <tr>
               <td class="textt">Jenis Kelamin</td>
@@ -57,12 +57,12 @@
           <tr>
               <td class="textt">Tempat Lahir</td>
                 <td>:</td>
-                <td>Tegal</td>
+                <td>Slawi</td>
             </tr>
           <tr>
               <td class="textt">Nim</td>
                 <td>:</td>
-                <td>18090142</td>
+                <td>17090128</td>
             </tr>
           <tr>
           <tr>
